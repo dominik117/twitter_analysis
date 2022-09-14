@@ -1,7 +1,7 @@
 # Twitter Analysis
 
 <div float="left">
-    <a href="https://sit.academy/"><img src=“img”.png title=“Twitter” alt=“Twitter width=“90%”></a>
+    <a href="https://sit.academy/"><img src="img.png" title=“Twitter” alt="Twitter" width=“90%”></a>
     &nbsp;&nbsp;
 </div>
 
