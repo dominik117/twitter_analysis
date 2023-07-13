@@ -1,6 +1,22 @@
 get_tweets_not_useful.ipynb
 *.geojson
 
+## Media Files ##
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.raw
+*.cr2
+*.mp3
+*.mp4
+*.mov
+*.wmv
+*.avi
+*.avchd
+*.mkv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
